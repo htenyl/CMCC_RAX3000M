@@ -1,5 +1,5 @@
 
-name: 编译hanwckf的immortalwrt固件
+name: 编译复制的hanwckf的immortalwrt固件
 
 on:
   repository_dispatch:
